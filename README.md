@@ -73,4 +73,4 @@ MIT License
 
 ## Author
 
-[notsopreety](https://github.com/notsopreety)
+[Samir Thakuri](https://github.com/notsopreety)
