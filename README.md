@@ -1,4 +1,4 @@
-# qrcodea# QR Code Generator & Scanner 🔲
+# QR Code Generator & Scanner 🔲
 
 A CLI tool for generating and scanning QR codes with features like batch generation and automatic file uploads.
 
